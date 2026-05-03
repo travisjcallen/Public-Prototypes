@@ -1,0 +1,6 @@
+name: "GeminiMol"
+github: https://github.com/Wang-Lin-boop/GeminiMol
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

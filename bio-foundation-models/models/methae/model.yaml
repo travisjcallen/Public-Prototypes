@@ -1,0 +1,6 @@
+name: "mEthAE"
+github: https://github.com/bilalhusain/mushroom-methaemoglobin
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

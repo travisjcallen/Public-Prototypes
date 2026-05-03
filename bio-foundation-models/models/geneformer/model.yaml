@@ -1,0 +1,6 @@
+name: "Geneformer"
+github: https://github.com/cx0/geneformer-finetune
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

@@ -1,0 +1,6 @@
+name: "Puffin"
+github: https://github.com/EmbarkStudios/puffin
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

@@ -1,0 +1,6 @@
+name: "scFormer"
+github: https://github.com/bowang-lab/scFormer
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

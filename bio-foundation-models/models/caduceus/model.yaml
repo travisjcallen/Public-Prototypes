@@ -1,0 +1,6 @@
+name: "Caduceus"
+github: https://github.com/kuleshov-group/caduceus
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

@@ -1,0 +1,6 @@
+name: "MuLan-Methyl"
+github: https://github.com/husonlab/mulan-methyl
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

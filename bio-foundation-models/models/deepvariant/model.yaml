@@ -1,0 +1,6 @@
+name: "DeepVariant"
+github: https://github.com/google/deepvariant
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

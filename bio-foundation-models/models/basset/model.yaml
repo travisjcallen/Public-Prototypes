@@ -1,0 +1,6 @@
+name: "Basset"
+github: https://github.com/davek44/Basset
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

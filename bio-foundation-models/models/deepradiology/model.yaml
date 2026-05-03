@@ -1,0 +1,6 @@
+name: "DeepRadiology"
+github: https://github.com/pyaf/DeepRadiology
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

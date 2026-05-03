@@ -1,0 +1,6 @@
+name: "BioNeMo"
+github: https://github.com/NVIDIA/BioNeMo
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

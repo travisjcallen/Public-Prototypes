@@ -1,0 +1,6 @@
+name: "scFoundation"
+github: https://github.com/biomap-research/scFoundation
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

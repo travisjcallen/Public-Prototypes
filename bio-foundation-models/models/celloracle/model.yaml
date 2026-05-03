@@ -1,0 +1,6 @@
+name: "CellOracle"
+github: https://github.com/morris-lab/CellOracle
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

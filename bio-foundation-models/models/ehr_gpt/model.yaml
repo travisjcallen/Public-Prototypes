@@ -1,0 +1,6 @@
+name: "EHR-GPT"
+github: https://github.com/Anitej185/live-doc-gpt
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

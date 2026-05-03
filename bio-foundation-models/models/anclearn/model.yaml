@@ -1,0 +1,6 @@
+name: "AncLearn"
+github: https://github.com/Geo-Tell/AncRec
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

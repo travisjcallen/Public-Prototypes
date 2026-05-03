@@ -1,0 +1,6 @@
+name: "Prov-GigaPath"
+github: https://github.com/prov-gigapath/prov-gigapath
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

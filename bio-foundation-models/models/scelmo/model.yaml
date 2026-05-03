@@ -1,0 +1,6 @@
+name: "scELMo"
+github: https://github.com/HelloWorldLTY/scELMo
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

@@ -1,0 +1,6 @@
+name: "ClinicalBERT"
+github: https://github.com/EmilyAlsentzer/clinicalBERT
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

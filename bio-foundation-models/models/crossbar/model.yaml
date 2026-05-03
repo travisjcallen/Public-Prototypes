@@ -1,0 +1,6 @@
+name: "CROssBAR"
+github: https://github.com/crossbario/crossbar
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

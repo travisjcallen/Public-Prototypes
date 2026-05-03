@@ -1,0 +1,6 @@
+name: "Basenji"
+github: https://github.com/calico/basenji
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

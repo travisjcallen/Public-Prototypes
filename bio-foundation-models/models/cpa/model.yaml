@@ -1,0 +1,6 @@
+name: "CPA"
+github: https://github.com/RustAudio/cpal
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

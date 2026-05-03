@@ -1,0 +1,6 @@
+name: "UMedPT"
+github: https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

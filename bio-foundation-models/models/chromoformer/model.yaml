@@ -1,0 +1,6 @@
+name: "Chromoformer"
+github: https://github.com/dohlee/chromoformer
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

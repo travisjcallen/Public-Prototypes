@@ -1,0 +1,6 @@
+name: "AlphaFold 3"
+github: https://github.com/lucidrains/alphafold3-pytorch
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

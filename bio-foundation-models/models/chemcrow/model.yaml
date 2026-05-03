@@ -1,0 +1,6 @@
+name: "ChemCrow"
+github: https://github.com/ur-whitelab/chemcrow-public
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

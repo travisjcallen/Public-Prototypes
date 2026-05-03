@@ -1,0 +1,6 @@
+name: "ClinicalGPT"
+github: https://github.com/jiyingz/clinicalGPT-2
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

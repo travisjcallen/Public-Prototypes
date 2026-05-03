@@ -1,0 +1,6 @@
+name: "GeneBERT"
+github: https://github.com/ZovcIfzm/GeneBERT
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

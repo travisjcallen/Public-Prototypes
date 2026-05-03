@@ -1,0 +1,6 @@
+name: "LLaVA-Med"
+github: https://github.com/microsoft/LLaVA-Med
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

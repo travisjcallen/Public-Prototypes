@@ -1,0 +1,6 @@
+name: "M3-CAD"
+github: https://github.com/AmoebeLabs/m3-02-cadmiumgreen
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

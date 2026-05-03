@@ -1,0 +1,6 @@
+name: "DNAGPT"
+github: https://github.com/TencentAILabHealthcare/DNAGPT
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

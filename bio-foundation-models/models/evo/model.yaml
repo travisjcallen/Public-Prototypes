@@ -1,0 +1,6 @@
+name: "Evo"
+github: https://github.com/the1812/Bilibili-Evolved
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

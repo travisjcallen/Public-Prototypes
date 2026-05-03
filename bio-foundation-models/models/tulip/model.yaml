@@ -1,0 +1,6 @@
+name: "TULIP"
+github: https://github.com/junegunn/goyo.vim
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

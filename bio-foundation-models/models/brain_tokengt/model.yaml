@@ -1,0 +1,6 @@
+name: "Brain TokenGT"
+github: https://github.com/ZijianD/Brain-TokenGT
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

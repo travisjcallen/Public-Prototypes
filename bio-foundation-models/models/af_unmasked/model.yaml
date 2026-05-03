@@ -1,0 +1,6 @@
+name: "AF_unmasked"
+github: https://github.com/clami66/AF_unmasked
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

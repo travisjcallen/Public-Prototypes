@@ -1,0 +1,6 @@
+name: "Nucleotide Transformer"
+github: https://github.com/instadeepai/nucleotide-transformer
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

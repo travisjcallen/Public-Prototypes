@@ -1,0 +1,6 @@
+name: "Med-PaLM"
+github: https://github.com/kyegomez/Med-PaLM
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

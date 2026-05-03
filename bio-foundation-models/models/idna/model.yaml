@@ -1,0 +1,6 @@
+name: "iDNA"
+github: https://github.com/rthalley/dnspython
+status: needs_review
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

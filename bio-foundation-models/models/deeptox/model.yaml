@@ -1,0 +1,6 @@
+name: "DeepTox"
+github: https://github.com/zake7749/DeepToxic
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

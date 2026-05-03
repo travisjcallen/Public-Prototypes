@@ -1,0 +1,6 @@
+name: "SCimilarity"
+github: https://github.com/Genentech/scimilarity
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

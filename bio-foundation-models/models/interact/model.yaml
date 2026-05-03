@@ -1,0 +1,6 @@
+name: "INTERACT"
+github: https://github.com/kamranahmedse/developer-roadmap
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"

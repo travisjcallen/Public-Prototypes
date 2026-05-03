@@ -1,0 +1,213 @@
+models:
+  - name: "AF_unmasked"
+    slug: af_unmasked
+    github: https://github.com/clami66/AF_unmasked
+    status: link_validated
+  - name: "AlphaFold"
+    slug: alphafold
+    github: https://github.com/google-deepmind/alphafold
+    status: link_validated
+  - name: "AlphaFold 3"
+    slug: alphafold_3
+    github: https://github.com/lucidrains/alphafold3-pytorch
+    status: link_validated
+  - name: "AncLearn"
+    slug: anclearn
+    github: https://github.com/Geo-Tell/AncRec
+    status: needs_review
+  - name: "AttentiveChrome"
+    slug: attentivechrome
+    github: https://github.com/QData/AttentiveChrome
+    status: link_validated
+  - name: "Basenji"
+    slug: basenji
+    github: https://github.com/calico/basenji
+    status: link_validated
+  - name: "Basset"
+    slug: basset
+    github: https://github.com/davek44/Basset
+    status: link_validated
+  - name: "BioNeMo"
+    slug: bionemo
+    github: https://github.com/NVIDIA/BioNeMo
+    status: link_validated
+  - name: "Brain TokenGT"
+    slug: brain_tokengt
+    github: https://github.com/ZijianD/Brain-TokenGT
+    status: link_validated
+  - name: "Caduceus"
+    slug: caduceus
+    github: https://github.com/kuleshov-group/caduceus
+    status: link_validated
+  - name: "CellOracle"
+    slug: celloracle
+    github: https://github.com/morris-lab/CellOracle
+    status: link_validated
+  - name: "ChemCrow"
+    slug: chemcrow
+    github: https://github.com/ur-whitelab/chemcrow-public
+    status: link_validated
+  - name: "Chemprop"
+    slug: chemprop
+    github: https://github.com/chemprop/chemprop
+    status: link_validated
+  - name: "Chromoformer"
+    slug: chromoformer
+    github: https://github.com/dohlee/chromoformer
+    status: link_validated
+  - name: "ClinicalBERT"
+    slug: clinicalbert
+    github: https://github.com/EmilyAlsentzer/clinicalBERT
+    status: link_validated
+  - name: "ClinicalGPT"
+    slug: clinicalgpt
+    github: https://github.com/jiyingz/clinicalGPT-2
+    status: link_validated
+  - name: "CPA"
+    slug: cpa
+    github: https://github.com/RustAudio/cpal
+    status: needs_review
+  - name: "CROssBAR"
+    slug: crossbar
+    github: https://github.com/crossbario/crossbar
+    status: link_validated
+  - name: "Evo"
+    slug: evo
+    github: https://github.com/the1812/Bilibili-Evolved
+    status: needs_review
+  - name: "DeepTox"
+    slug: deeptox
+    github: https://github.com/zake7749/DeepToxic
+    status: link_validated
+  - name: "DeepVariant"
+    slug: deepvariant
+    github: https://github.com/google/deepvariant
+    status: link_validated
+  - name: "DeepRadiology"
+    slug: deepradiology
+    github: https://github.com/pyaf/DeepRadiology
+    status: link_validated
+  - name: "DNAGPT"
+    slug: dnagpt
+    github: https://github.com/TencentAILabHealthcare/DNAGPT
+    status: link_validated
+  - name: "EHR-GPT"
+    slug: ehr_gpt
+    github: https://github.com/Anitej185/live-doc-gpt
+    status: needs_review
+  - name: "Enformer"
+    slug: enformer
+    github: https://github.com/lucidrains/enformer-pytorch
+    status: link_validated
+  - name: "GeminiMol"
+    slug: geminimol
+    github: https://github.com/Wang-Lin-boop/GeminiMol
+    status: link_validated
+  - name: "GeneBERT"
+    slug: genebert
+    github: https://github.com/ZovcIfzm/GeneBERT
+    status: link_validated
+  - name: "Geneformer"
+    slug: geneformer
+    github: https://github.com/cx0/geneformer-finetune
+    status: link_validated
+  - name: "GenSLM"
+    slug: genslm
+    github: https://github.com/ramanathanlab/genslm
+    status: link_validated
+  - name: "HyenaDNA"
+    slug: hyenadna
+    github: https://github.com/HazyResearch/hyena-dna
+    status: link_validated
+  - name: "iDNA"
+    slug: idna
+    github: https://github.com/rthalley/dnspython
+    status: needs_review
+  - name: "INTERACT"
+    slug: interact
+    github: https://github.com/kamranahmedse/developer-roadmap
+    status: link_validated
+  - name: "LLaVA-Med"
+    slug: llava_med
+    github: https://github.com/microsoft/LLaVA-Med
+    status: link_validated
+  - name: "M3-CAD"
+    slug: m3_cad
+    github: https://github.com/AmoebeLabs/m3-02-cadmiumgreen
+    status: needs_review
+  - name: "Med-PaLM"
+    slug: med_palm
+    github: https://github.com/kyegomez/Med-PaLM
+    status: link_validated
+  - name: "mEthAE"
+    slug: methae
+    github: https://github.com/bilalhusain/mushroom-methaemoglobin
+    status: link_validated
+  - name: "MuLan-Methyl"
+    slug: mulan_methyl
+    github: https://github.com/husonlab/mulan-methyl
+    status: link_validated
+  - name: "Nucleotide Transformer"
+    slug: nucleotide_transformer
+    github: https://github.com/instadeepai/nucleotide-transformer
+    status: link_validated
+  - name: "Pathformer"
+    slug: pathformer
+    github: https://github.com/decisionintelligence/pathformer
+    status: link_validated
+  - name: "ProGen"
+    slug: progen
+    github: https://github.com/salesforce/progen
+    status: link_validated
+  - name: "Prov-GigaPath"
+    slug: prov_gigapath
+    github: https://github.com/prov-gigapath/prov-gigapath
+    status: link_validated
+  - name: "Puffin"
+    slug: puffin
+    github: https://github.com/EmbarkStudios/puffin
+    status: link_validated
+  - name: "scBERT"
+    slug: scbert
+    github: https://github.com/TencentAILabHealthcare/scBERT
+    status: link_validated
+  - name: "scBOL"
+    slug: scbol
+    github: https://github.com/pastak/scboloo
+    status: link_validated
+  - name: "scELMo"
+    slug: scelmo
+    github: https://github.com/HelloWorldLTY/scELMo
+    status: link_validated
+  - name: "scFormer"
+    slug: scformer
+    github: https://github.com/bowang-lab/scFormer
+    status: link_validated
+  - name: "scFoundation"
+    slug: scfoundation
+    github: https://github.com/biomap-research/scFoundation
+    status: link_validated
+  - name: "scGPT"
+    slug: scgpt
+    github: https://github.com/bowang-lab/scGPT
+    status: link_validated
+  - name: "SCimilarity"
+    slug: scimilarity
+    github: https://github.com/Genentech/scimilarity
+    status: link_validated
+  - name: "TULIP"
+    slug: tulip
+    github: https://github.com/junegunn/goyo.vim
+    status: link_validated
+  - name: "UMedPT"
+    slug: umedpt
+    github: https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling
+    status: needs_review
+  - name: "XA4C"
+    slug: xa4c
+    github: https://github.com/QingrunZhangLab/XA4C
+    status: link_validated
+  - name: "scFoundation: Large Scale Foundation Model on Single-cell Transcriptomics"
+    slug: scfoundation_large_scale_foundation_model_on_single_cell_transcriptomics
+    github: https://github.com/biomap-research/scFoundation
+    status: link_validated

@@ -1,0 +1,6 @@
+name: "AlphaFold"
+github: https://github.com/google-deepmind/alphafold
+status: link_validated
+deployment:
+  method: "unspecified"
+  config_path: "./deploy/"
